@@ -189,27 +189,20 @@ trainer.push_to_hub("username/distilbert-sst2-finetuned")
 
 ## 🤝 Contributing
 
-Issues, pull requests, and suggestions welcome!
+Contributions are welcome! Feel free to:
+- Report issues or bugs
+- Suggest improvements to the training pipeline
+- Add support for other datasets or tasks
+- Optimize for additional hardware
+
+
+
+## 👤 Author
+
+**Himanshu Raturi**  
+GitHub: [@Himanshu0508Raturi](https://github.com/Himanshu0508Raturi)
 
 ---
 
-## 📚 References
-
-- [DistilBERT Paper](https://arxiv.org/abs/1910.01108)
-- [Hugging Face Transformers](https://huggingface.co/transformers/)
-- [SST-2 Dataset](https://huggingface.co/datasets/stanfordnlp/sst2)
-
----
-
-## 📝 License
-
-MIT License - see LICENSE file for details
-
----
-
-## 👨‍💻 Author
-
-**Himanshu Raturi**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-raturi/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Himanshu0508Raturi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/himanshu-raturi/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/Himanshu0508Raturi)    
